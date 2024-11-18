@@ -3,7 +3,7 @@
 
 Music taste prediction using data from the Spotify API.
 
-music-taste-prediction.ipynb is the main Notebook - Check it out :)
+´music-taste-prediction.ipynb´ is the main Notebook - Check it out :)
 
 Process can be divided into three different steps
 
